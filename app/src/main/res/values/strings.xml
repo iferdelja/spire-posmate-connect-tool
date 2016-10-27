@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Harald</string>
+
+    <string name="hello_world">Hello &#60;b&#62;world!&#60;/b&#62;</string>
+    <string name="action_settings">Settings</string>
+</resources>
